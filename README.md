@@ -1,9 +1,4 @@
 
-# MERN Bolier Plate
-
-This is Boiler for Full Stack MERN Application.
-
-
 
 ## Tech Stack
 
@@ -23,13 +18,13 @@ This is Boiler for Full Stack MERN Application.
 Clone the project
 
 ```bash
-  git clone https://github.com/harshchandwani/MERN_boilerplate
+  git clone https://github.com/AbdulhameedSk/Car-Selling-Assignment
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Car-Selling-Assignment
 ```
 
 Install dependencies in both Frontend and Backend
@@ -41,6 +36,6 @@ Install dependencies in both Frontend and Backend
 Start the server in Frontend
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
